@@ -81,7 +81,7 @@ $vfpWP_latlong   = explode(",", $vfpWP_json['loc']);
 $vfpWP_lat   = $vfpWP_latlong[0];
 $vfpWP_long  = $vfpWP_latlong[1];
 $vfpWP_longitude = $vfpWP_json['longitude'];
-$vfpWP_API_KEY   = '61967697d57368ec0d48c115fde7852a';
+$vfpWP_API_KEY   = 'YOUR_API_KEY';
 
 
 vfpWP_get_local_weather($vfpWP_lat, $vfpWP_long, $vfpWP_API_KEY);
