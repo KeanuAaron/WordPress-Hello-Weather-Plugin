@@ -72,7 +72,6 @@ function vfpWP_get_local_weather($vfpWP_lat, $vfpWP_long, $vfpWP_API_KEY) {
 	 */
 	$vfpWP_weather_response = json_decode($vfpWP_json, true);
 	$vfpWP_descrip_response = $vfpWP_weather_response['weather'][0]['description'];
-	$vfpWP_city_response    = $vfpWP_weather_response['sys'][1]['name'];
 	vfpWP_display_weather( json_encode($vfpWP_descrip_response) );
 }
 
