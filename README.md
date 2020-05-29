@@ -16,7 +16,8 @@ Hello Weather collects these so it can make the next call.
 The second GET request is made to the [OpenWeather API](https://openweathermap.org). Using the given Longitude and Latitude,
 it returns the given weather conditions. (eg. Cloudy, Sunny, etc)
 
-Finally after all that is retrieved, It places the string on the top right of the admin panel just like [Hello Dolly](https://wordpress.org/plugins/hello-dolly/) does. [ **Example:** It looks like "broken clouds" in City, Region today. ]
+Finally after all that is retrieved, It places the string on the top right of the admin panel just like [Hello Dolly](https://wordpress.org/plugins/hello-dolly/) does.   
+[ **Example:** _It looks like "broken clouds" in City, Region today._ ]
 
 ## What's Next?
 Absolutely nothing. I don't see any other reason or feature to expand upon Hello Weather. It is nothing more than a simple 
