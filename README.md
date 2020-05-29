@@ -1,4 +1,4 @@
-# WordPress-Hello-Weather-Plugin
+# WordPress Hello Weather Plugin
 This is an extremely simple plugin. It was made so I could get a bit of a better understanding on how WordPress plugins work.
 It's very similar to the famous [Hello Dolly Plugin](https://wordpress.org/plugins/hello-dolly/) that you see installed by 
 default on nearly every WordPress site.
